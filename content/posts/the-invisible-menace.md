@@ -7,6 +7,8 @@ draft: false
 
 > Disclaimer: this is a personal opinion, a speculation about things to come, and is not meant to be investment or financial advice.
 
+(The website version is quite unpolished. Please refer to the PDF version as it contains graphics and footnotes. [Link](https://drive.google.com/open?id=1Po5rBkVOG87_W0XlWY_8FehnMW9xyzBb))
+
 It might seem hard to understate the economic effects of the current pandemic, but I worry that the lack of caution is exactly what's happening. In just the past few months, we witnessed numerous worrying signs that defied all historical trends, whether it is the speed of the stock market drop  , the negative oil prices, or the levels of death and unemployment in the US and around the world. Particularly in the United States, all this has been magnified by the negligence of the current administration with little signs of any interest in actually tackling the problem. This is extremely concerning especially since the world often looks to this country for leadership in times of crisis.
 
 And that is only what we've seen.
@@ -95,7 +97,7 @@ Long is the opposite of short in both general vocabulary and in trading. Long is
 
 ## Epilogue
 
-At this point, my opinion (not investment advice) that we are entering an era not unlike the Great Depression has concluded. I hope you find yourself sufficiently aware and informed. If not, feel free to reach out to me for questions, for it is my (potentially self-presumptions) duty to inform those around me.
+One writes to seek validation, to be right. This author would actually love to be proven wrong, as being correct means the demise of the economy and the suffering of countless families. At this point, my opinion (not investment advice) that we are entering an era not unlike the Great Depression has concluded. I hope you find yourself sufficiently aware and informed. If not, feel free to reach out to me for questions, for it is my (potentially self-presumptions) duty to inform those around me.
 
 Now if you care for staying around, I will now wildly speculate on what happens after this collapse, assuming there will be one. This is the part that gets more political and perhaps even delusional, as if the main body wasn’t wild enough.
 
