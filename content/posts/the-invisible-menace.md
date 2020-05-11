@@ -2,6 +2,7 @@
 title: "The Invisible Menace"
 date: 2020-05-02T21:53:42-07:00
 draft: false
+summary: "I worry that the world is understating the economic effects of the current pandemic, and that we will see a recession in magnitudes similar to the Great Depression. This might contradict a lot of opinions out there, and valuation of the stock market, but I believe there is an explanation behind all this..."
 ---
 (idk title is bad this is more like a placeholder)
 
