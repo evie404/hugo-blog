@@ -17,8 +17,8 @@ As consumers, we are presented with a trilemma: give up personal data, pay a pre
 
 I’ll be writing a series of guides on how to hack our smart devices, build our own sensor networks, and set up central home automation for fun and comfort. By the end of the series, we will be able to control home devices from a smartphone or through automation, and visualize trends like temperature, all without exposing private data.
 
-<img src="/images/custom-sensor.png" alt="Custom sensor" style="max-width: 80%;">
+![Custom sensor](/images/custom-sensor.png)
 
-<img src="/images/tasmota-temperature-graph.png" alt="Temperature graph" style="max-width: 80%;">
+![Temperature graph](/images/tasmota-temperature-graph.png)
 
 Stay tuned.
