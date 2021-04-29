@@ -1,7 +1,8 @@
 ---
-title: "Home Automation for Fun and Comfort Without Big Brother"
+title: "Homebrew Home Automation for Privacy and Comfort"
 date: 2021-04-28T21:43:07-07:00
-draft: true
+draft: false
+summary: "How to build your own home automation stack without inviting Big Brother"
 ---
 
 Perhaps due to staying home too much, I have been tinkering with IoT (Internet of Things) devices - that by connecting to the internet, home devices can be easily customized for comfort and energy savings. We can then set up rules like turn off the AC and warn us if the door is left unlocked when we leave the house.
