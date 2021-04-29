@@ -2,7 +2,7 @@
 title: "Homebrew Home Automation for Privacy and Comfort"
 date: 2021-04-28T21:43:07-07:00
 draft: false
-summary: "How to build your own home automation stack without inviting Big Brother"
+summary: "How to build your own home automation stack without inviting Big Brother."
 ---
 
 Perhaps due to staying home too much, I have been tinkering with IoT (Internet of Things) devices - that by connecting to the internet, home devices can be easily customized for comfort and energy savings. We can then set up rules like turn off the AC and warn us if the door is left unlocked when we leave the house.
@@ -17,8 +17,8 @@ As consumers, we are presented with a trilemma: give up personal data, pay a pre
 
 I’ll be writing a series of guides on how to hack our smart devices, build our own sensor networks, and set up central home automation for fun and comfort. By the end of the series, we will be able to control home devices from a smartphone or through automation, and visualize trends like temperature, all without exposing private data.
 
-{{- $image := resources.Get "images/custom-sensor.png" -}}
+![Custom sensor](/static/images/custom-sensor.png)
 
-{{- $image := resources.Get "images/tasmota-temperature-graph.png" -}}
+![Temperature graph](/static/images/tasmota-temperature-graph.png)
 
 Stay tuned.
