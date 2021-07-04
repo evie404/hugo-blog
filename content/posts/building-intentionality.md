@@ -31,6 +31,6 @@ and also improving at the same time.
 
 I want to replicate this intentionality for life in general. Most immediately, I want to try to
 structure my days into smaller, intentional blocks. Blocks like: sort out health insurance PCP,
-securing Home Assistant to make the iOS app work, or setup automated testing setup for a personal
-project. I'm basically just making calendar blocks for myself, and maybe it'll work, or it won't.
+securing Home Assistant to make the iOS app work, or setup automated testing for a personal project.
+I'm basically just making calendar blocks for myself, and maybe it'll work, or it won't. Either way,
 I'll try different techniques like pomodoro and share my results. Thanks for reading.
