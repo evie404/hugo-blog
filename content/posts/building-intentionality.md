@@ -8,6 +8,8 @@ Unemployment is both a curse and a privilege. One is cursed with economic uncert
 of basic human needs like health insurance (at least in the United States), while at the same time
 privileged with a wealth of free time. The question is what to do with this wealth?
 
+<!--more-->
+
 For a while, my time was spent participating this educational retreat for programmers called the
 Recurse Center. Now that I've completed the retreat, my days are once again completely unstructured,
 my calendar free of obligations. For the first few days, I visited some friends from the retreat in
