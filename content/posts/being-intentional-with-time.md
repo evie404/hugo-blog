@@ -1,5 +1,5 @@
 ---
-title: "Building Intentionality"
+title: "Being Intentional with Time"
 date: 2021-07-04T05:58:37-07:00
 draft: false
 ---
