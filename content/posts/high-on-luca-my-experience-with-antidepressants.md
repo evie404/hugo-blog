@@ -10,7 +10,7 @@ The anti-depressants are working. Let's talk about them.
 
 <!--more-->
 
-Disclaimer: I am not a medical professional. This content is only my personal experience and should not be considered medical advice.
+*Disclaimer: I am not a medical professional. This content is only my personal experience and should not be considered medical advice.*
 
 Mental health is enough of a stigma. Anti-depressants more so. When a friend was initially prescribed these enigmatic drugs, I remember being worried not for their circumstance but for the drugs. It wasn't until much later, after a particularly bad stint at the peak of the pandemic, that my therapist suggested that I should also see a psychiatrist. So I did.
 
