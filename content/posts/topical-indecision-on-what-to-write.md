@@ -1,5 +1,5 @@
 ---
-title: "Topical Indecision: Potential Topics to Write about"
+title: "Topical Indecision: On What to Write"
 date: 2021-07-06T11:11:47-07:00
 draft: false
 ---
