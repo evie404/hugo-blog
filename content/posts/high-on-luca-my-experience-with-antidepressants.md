@@ -12,8 +12,6 @@ The anti-depressants are working. Let's talk about them.
 
 *Disclaimer: I am not a medical professional. This content is only my personal experience and should not be considered medical advice.*
 
-Mental health is enough of a stigma. Anti-depressants more so. When a friend was initially prescribed these enigmatic drugs, I remember being worried not for their circumstance but for the drugs. It wasn't until much later, after a particularly bad stint at the peak of the pandemic, that my therapist suggested that I should also see a psychiatrist. So I did.
-
 The journey to anti-depressants is guided by the psychiatrist, not to be confused with the therapist. They play a complimentary role to make the client/patient feel better through different means.
 
 The therapist tries to diagnose the source of the problem through past experiences, whether insomnia, anxiety, depression, and teach ways to better address them. For me, it means invoking the image of Gordon Ramsey when I'm being too harsh on myself. It was difficult initially but became easier after some practice. Where this breaks down are cases where my mind spirals out of control and becomes this hot ball of anxiety, auto-piloting towards the most self-destructive thoughts. After a few of these episodes, my therapist suggested that I seek additional help from a psychiatrist.
