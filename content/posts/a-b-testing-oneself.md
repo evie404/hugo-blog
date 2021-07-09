@@ -1,5 +1,5 @@
 ---
-title: "A/B Testing on Oneself"
+title: "A/B Testing Oneself"
 date: 2021-07-08T21:38:38-07:00
 draft: false
 ---
