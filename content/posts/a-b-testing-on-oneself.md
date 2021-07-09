@@ -4,17 +4,15 @@ date: 2021-07-08T21:38:38-07:00
 draft: false
 ---
 
-In the software industry, A/B testing is the practice to show users variations of the same content. The difference can be color, size, layout, text/image content, and just about every aspect of the user experience, including pricing. The idea is to run experiments and find the optimal variation to prescribe as the new default for all users. (This sounds very noble, but it can sometimes be used to just try to extract maximum revenue from users without realistic change in content)
+In the software industry, A/B testing is the practice to show users variations of the same content. The difference can be color, size, layout, text/image/video content, and just about every other aspect of the user experience, including pricing. The idea is to run experiments and find the optimal variation to prescribe as the new default for all users. (This sounds very noble, but it can sometimes be used to just try to extract maximum revenue from users without realistic change in content)
 
-So the question is, can one A/B test themselves?
+So the question is, can one A/B test themselves? I have two ideas.
 
 <!--more-->
 
-I have two ideas for my own A/B testing.
+The first experiment concerns the artistic medium for fanart creation. As an avid consumer of anime and video games, it has been an adolescent dream to create fanart. Despite the longstanding aspiration, the fear of mediocrity and self-judgement have long prevented me from realizing it. Now unemployed with time and tools at my disposal, the setting is ripe for deliberate practice to create some hopefully-presentable art. The question is what medium? I've been interested and learning both 2D drawing and 3D rendering as potential media. It would be very interesting to attempt to realize the same concept through both, and compare the process and results. I'd love to see which one I end up liking better, so I can better focus on them. (Maybe both lol)
 
-The first is fanart creation. As an avid consumer of anime and video games, it has been an adolescent dream to create fanart. Despite the longstanding aspiration, the fear of mediocrity and self-judgement have long prevented me from realizing it. Now unemployed with time and tools at my disposal, the setting is ripe for deliberate practice to create some hopefully-presentable art. The question is what medium? I've been interested and learning both 2D drawing and 3D rendering as potential media. It would be very interesting to attempt to realize the same concept through both, and compare the process and results. I'd love to see which one I end up liking better, so I can better focus on them. (Maybe both lol)
-
-Another test is experimenting with self-expression. I just finished a very literal test of shaving one of arm and leg while leaving the other in tact: treatment and control. I then compared how they felt from visual to tactile senses. It is unreal how such a simple change can make such a profound difference: With each stroke, it felt like I was casting away a little impurity, a bit of what wasn't me. It was refreshing, both in the literal sense with a more exposed skin, but also this newfound kindness for myself, that for the first time in my life, I cared for my own body. The conclusion may be premature, but it has motivated me to experiment further. I will certainly share the results.
+The second experiment concerns self-expression. I just finished a very literal test of shaving one of arm and leg while leaving the other in tact: treatment and control. I then compared how they felt from visual to tactile senses. It is unreal how such a simple change can make such a profound difference: With each stroke, it felt like I was casting away a little impurity, a bit of what wasn't me. It was refreshing, both in the literal sense with a more exposed skin, but also this newfound kindness for myself, that for the first time in my life, I cared for my own body. The conclusion may be premature, but it has motivated me to experiment further. I will certainly share the results.
 
 Thank you for reading.
 
