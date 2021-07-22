@@ -14,4 +14,4 @@ I don't really know how to react right now. This game has brought together many 
 
 Reminds me of shows where the elusive but supportive character was actually the main antagonist. Unlike shows, which end triumphantly with the defeat of these sinister plots, it seems like our choices are limited in the real world. After all, all the conveniences in life don't come without exploitation: the rare metals in electronic devices come from environmentally-destructive mines with hazardous mines filled with slave labors, deliveries made by warehouse workers who are denied medical leaves and even bathroom breaks (resorting to pee in bottles), and food coming from mills overpopulated with crammed livestocks. All the while as billionaires race to take vanity trips to escape this same hell they've created into space.
 
-In face of the harsh reality, we take refuge in fantasies constructed by the same oppressors. With that also being taken away, is despair the only remaining option? :c
+In face of the harsh reality, we take refuge in fantasies constructed by the same oppressors. With that also being taken away, is despair our only remaining option? :c
