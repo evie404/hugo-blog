@@ -1,5 +1,5 @@
 ---
-title: "Overwatch's Thriving Inclusive Community vs. Its Misogynic Developer Activision Blizzard"
+title: "The Dual Reality of Overwatch and its Misogynic Developer Activision Blizzard"
 date: 2021-07-22T07:24:55-07:00
 draft: false
 ---
