@@ -15,31 +15,3 @@ I don't really know how to react right now. This game has brought together many 
 Reminds me of shows where the elusive but supportive character was actually the main antagonist. Unlike shows, which end triumphantly with the defeat of these sinister plots, it seems like our choices are limited in the real world. After all, all the conveniences in life don't come without exploitation: the rare metals in electronic devices come from environmentally-destructive mines with hazardous mines filled with slave labors, deliveries made by warehouse workers who are denied medical leaves and even bathroom breaks (resorting to pee in bottles), and food coming from mills overpopulated with crammed livestocks. All the while as billionaires race to take vanity trips to escape this same hell they've created into space.
 
 In face of the harsh reality, we take refuge in fantasies constructed by the same oppressors. With that also being taken away, is despair the only remaining option? :c
-
-
-
-
-
-
-
-Maybe all this wasn't that surprising, especially having worked at many companies where inclusion is more branding than practice.
-
-
-ive fans the false sense of domain in this beautiful fictional universe,
-
-
-
-: with basic human rights like healthcare and housing are sufficiently exploited in the physical world, they are establishing a new frontier in our last refuge in the fictional world.
-
-
-
-
-
-
-
-
-
-In Taiwan where I once lived, every other corner is a convenient store filled a dazzling selection of drinks to quench the thirst under the tropical sun. One of the most interesting life advice I got was to always buy new labels of drinks, not for the novelty of experimentation, but because those always contain the best ingredients like real milk instead of dairy-like chemical emulsifiers, and cane sugar instead of high-fructose corn syrups. The reason is companies like to entice consumers with new offerings that appear authentic, only to bait and switch once it gains traction.
-
-
-
